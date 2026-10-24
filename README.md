@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Yisrael&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Desenvolvedor%20Fullstack%20%7C%20Java%20%26%20JavaScript&descAlignY=65)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Yaakov+Bar+Abraham+&textBg=false&fontSize=70&fontAlign=52&fontAlignY=50&animation=fadeIn&rotate=-2&strokeWidth=0&desc=Desenvolvimento+de+aplica%C3%A7%C3%B5es+com+arte+aplicada&descSize=20&descAlign=50&descAlignY=60)
 
 ### 💻 Programador de Sistemas | Fullstack | 10 anos de experiência
 
