@@ -115,8 +115,12 @@ Sou desenvolvedor fullstack com **10 anos de experiência com Java**, atuando em
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jacoblisboa&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacoblisboa&layout=compact&theme=tokyonight&hide_border=true)
+### 🐙 GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jacoblisboa&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jacoblisboa&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
+
 
 ---
 
